@@ -21,4 +21,4 @@ npx @firmis/ai-inventory .
 
 ### Links
 
-[Website](https://firmislabs.com) &middot; [npm](https://www.npmjs.com/package/firmis-scanner) &middot; [Twitter](https://twitter.com/firmislabs)
+[Website](https://firmislabs.com) &middot; [npm](https://www.npmjs.com/package/firmis-cli) &middot; [Twitter](https://twitter.com/firmislabs)
